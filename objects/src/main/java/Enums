@@ -1,0 +1,28 @@
+{
+  "PieceType":
+  {
+      "Soldier":
+      {
+        "Cost":1,
+        "Power":1
+      },
+      "Ship":
+      {
+        "Cost":1,
+        "Power":1
+      },
+      "Knight":
+      {
+        "Cost":2,
+        "Power":2
+      },
+      "Catapult":
+      {
+        "Cost":2,
+        "Power":0
+      }
+   }
+
+
+
+}
